@@ -1,3 +1,5 @@
+> 📦 **Easy install:** this skill is part of the Galaxy Maps stack. Use the one-step installer instead of cloning by hand → [`Galaxy-Maps/gm-agent-galaxy-map-creator-skill-install`](https://github.com/Galaxy-Maps/gm-agent-galaxy-map-creator-skill-install)
+>
 # Curriculum (Agent Teams)
 
 Team-based curriculum generation — 7 selectable teams of educational theorists collaborate on one consensus MAP.
